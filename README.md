@@ -1,3 +1,8 @@
+# 💫 About Me:
+🚀 Desarrollador Full-Stack especializado en JavaScript, TypeScript, React, Next.js y Node.js.
+💡 Me enfoco en construir aplicaciones escalables, seguras y mantenibles, aplicando buenas prácticas de arquitectura y metodologías ágiles.
+🛠️ Trabajo con bases de datos SQL y NoSQL, integraciones modernas y entornos cloud.
+🤝 Disfruto colaborar con equipos multidisciplinarios para crear soluciones eficientes, centradas en el usuario y orientadas al crecimiento del producto.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/facundo-e-falech-7ba27320b/) 
