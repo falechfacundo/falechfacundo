@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Desarrollador Full-Stack especializado en JavaScript, TypeScript, React, Next.js y Node.js.
-💡 Me enfoco en construir aplicaciones escalables, seguras y mantenibles, aplicando buenas prácticas de arquitectura y metodologías ágiles.
-🛠️ Trabajo con bases de datos SQL y NoSQL, integraciones modernas y entornos cloud.
+🚀 Desarrollador Full-Stack especializado en JavaScript, TypeScript, React, Next.js y Node.js.<br>
+💡 Me enfoco en construir aplicaciones escalables, seguras y mantenibles, aplicando buenas prácticas de arquitectura y metodologías ágiles.<br>
+🛠️ Trabajo con bases de datos SQL y NoSQL, integraciones modernas y entornos cloud.<br>
 🤝 Disfruto colaborar con equipos multidisciplinarios para crear soluciones eficientes, centradas en el usuario y orientadas al crecimiento del producto.
 
 ## 🌐 Socials:
